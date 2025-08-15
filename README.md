@@ -1,12 +1,8 @@
-## Hi there 👋
 
-<!-- Glowing Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=180&section=header&text=Rakesh%20Sonkar&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" width="100%"/>
+## 👋 Hi There ,I'm Rakesh Sonkar
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="200" style="border-radius: 50%;" alt="Profile Image" />
-</p>
+<!-- Glowing Wave Header
+<img src="https://capsule-render.vercel.app/api?--type=waving&color=00FFB3&height=180&section=header&text=Rakesh%20Sonkar&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" width="100%"/>-->
 
 <h3 align="center">🚀 Full Stack Developer | 🎯 Electronics & Communication Engineer | 🤖 AI Enthusiast</h3>
 
@@ -17,10 +13,14 @@
   </a>
 </p>
 
----
+<!-- profile view and follower section-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rak6477&label=Profile%20Views&color=0e75b6&style=flat" alt="Rak6477" /> 
+  <img src="https://img.shields.io/github/followers/Rak6477?label=Followers&style=social" alt="followers" />
+</p>
 
+----
 ## 🧑‍💻 About Me 
-<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 - 🎓 **B.Tech in Electronics & Communication Engineering** — Regent Education & Research Foundation  
 - 🎓 **Diploma in Electronics & Telecommunication Engineering**  
@@ -30,24 +30,6 @@
 - 📫 Reach me at: **sonkarrakesh113@gmail.com**
 
 ---
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,arduino,git,github,cpp,c,python" />
-</p>
-
----
-
-## 📌 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **NotesHub Classroom** | Google Classroom-style app with dynamic UI | HTML, CSS, JS |
-| **Jarvis Lite** | AI-based voice assistant | Python |
-| **Obstacle Avoiding Car** | Autonomous robotics project | Arduino, Ultrasonic Sensor |
-| **Radar System** | Real-time radar tracking | Arduino, Servo, Ultrasonic |
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:sonkarrakesh113@gmail.com"><img src="https://img.shields.io/badge/Email-00FFB3?style=for-the-badge&logo=gmail&logoColor=black"/></a>
@@ -59,16 +41,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rak6477&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rak6477&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Rakesh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rak6477&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rak6477&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak6477&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak6477&theme=dark&hide_border=true&layout=compact&count_private=true" alt="Top Languages"/>
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rak6477&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+
 
 ## 🐍 Contribution Snake
 <p align="center">
