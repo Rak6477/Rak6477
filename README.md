@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/coding.gif" style="margin-top: -80px; margin-left: 20px;" />
+
 - 🎓 **B.Tech in Electronics & Communication Engineering** — Regent Education & Research Foundation  
 - 🎓 **Diploma in Electronics & Telecommunication Engineering**  
 - 💻 Passionate about **Web Development**, **IoT**, and **AI**  
