@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧑‍💻 About Me (https://raw.githubusercontent.com/username/repo/main/about-section-photo.png)
+## 🧑‍💻 About Me <img src= "https://raw.githubusercontent.com/username/repo/main/about-section-photo.png">
 
 - 🎓 **B.Tech in Electronics & Communication Engineering** — Regent Education & Research Foundation  
 - 🎓 **Diploma in Electronics & Telecommunication Engineering**  
