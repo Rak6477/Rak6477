@@ -1,18 +1,12 @@
 ## Hi there 👋
 
-<!--
-**Rak6477/Rak6477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<!-- Glowing Wave Header -->
+<!-- Glowing Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=180&section=header&text=Rakesh%20Sonkar&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="200" style="border-radius: 50%;" alt="Profile Image" />
+</p>
 
 <h3 align="center">🚀 Full Stack Developer | 🎯 Electronics & Communication Engineer | 🤖 AI Enthusiast</h3>
 
@@ -25,7 +19,8 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧑‍💻 About Me <img src= "https://raw.githubusercontent.com/username/repo/main/about-section-photo.png">
+## 🧑‍💻 About Me 
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 - 🎓 **B.Tech in Electronics & Communication Engineering** — Regent Education & Research Foundation  
 - 🎓 **Diploma in Electronics & Telecommunication Engineering**  
@@ -87,6 +82,3 @@ Here are some ideas to get you started:
 
 <!-- Glowing Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=120&section=footer"/>
-
-- ⚡ Fun fact: ...
--->
