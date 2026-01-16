@@ -3,7 +3,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=Solving+problems+with+code+and+circuits;Building+modern+web+experiences;MERN+Stack+Enthusiast;Let's+connect+and+collaborate!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00FFB2&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Rakesh+Sonkar;Welcome+to+my+GitHub+profile;Front-End+Developer+%7C+ECE+Engineer+%7C+MERN+Stack+Enthusiast;Building+modern+and+scalable+web+interfaces;Exploring+Web%2C+AI+and+Embedded+Systems;Let%27s+connect+and+build+together+%F0%9F%A4%9D%F0%9F%9A%80" alt="Typing SVG" />
+
+
+
+
   </a>
 </p>
 
@@ -17,7 +21,8 @@
 
 I am a detail-oriented **Electronics & Communication Engineer** transitioning into **Full-Stack Development**. I bridge the gap between hardware logic and sleek, user-centric web interfaces. Currently focusing on mastering the MERN stack to build scalable, real-world applications.
 
-- 🎓 **Education:** B.Tech in Electronics & Communication Engineering
+- 🎓 **Education:** B.Tech in Electronics & Communication Engineering(2027)
+- 🎓 **Education:** Diploma in Electronics & Telecommunication Engineering (2024)
 - 📍 **Location:** Kolkata, India
 - 🌱 **Learning:** Node.js, Express, and MongoDB (MERN Stack)
 - 🤖 **Interests:** IoT, AI Integration, and UI/UX Design
